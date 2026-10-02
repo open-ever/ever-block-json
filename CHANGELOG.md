@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 0.9.42
+
+- Switched `ever-block` dependency to `open-ever/ever-block` pinned at tag `1.11.23`
+- Switched `ever-tl` dependency to `open-ever/ever-tl` pinned at tag `0.4.34`
+- Switched `common` submodule to `open-ever/common`
+
 ## Version 0.9.31
 
 - Added export pack_processing_info for shard block
