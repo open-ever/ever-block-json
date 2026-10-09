@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 0.9.43
+
+- Updated `ever-tl` dependency to tag `0.4.35`
+
 ## Version 0.9.42
 
 - Switched `ever-block` dependency to `open-ever/ever-block` pinned at tag `1.11.23`
